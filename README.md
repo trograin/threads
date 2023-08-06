@@ -1,5 +1,5 @@
 # Threads Clone with community feature.
-## Authorizing and registeration including Account detail creation, with Clerck
+## Authorizing and registeration including Account detail creatiwith Clerck
 
 - Next.js 13.4 with Server Side Rendering
 - Using MongoDB handling of complex schemas, multiple data population
