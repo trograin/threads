@@ -4,7 +4,7 @@
 - Next.js 13.4 with Server Side Rendering
 - Using MongoDB handling of complex schemas, multiple data population
 - Layouts with TailwindCSS
-- Using [https://clerk.com/](Clerk) for authentication
+- Using [Clerk](https://clerk.com/) for authentication
 - Handling file uploads with UploadThing
 - Validating data with Zod
 
