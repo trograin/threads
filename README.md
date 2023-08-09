@@ -2,11 +2,11 @@
 ## Authorizing and registeration including Account detail created with Clerk
 
 - Next.js 13.4 with Server Side Rendering
-- Using MongoDB handling of complex schemas, multiple data population
-- Layouts with TailwindCSS
+- Using [MongoDB](https://www.mongodb.com/) handling of complex schemas, multiple data population
+- Layouts with [TailwindCSS](https://tailwindcss.com/)
 - Using [Clerk](https://clerk.com/) for authentication
 - Handling file uploads with UploadThing
-- Validating data with Zod
+- Validating data with [Zod](https://zod.dev/)
 
 ## Getting Started
 
