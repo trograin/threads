@@ -26,7 +26,7 @@ async function Page() {
                 <article className='activity-card'>
                   <Image
                     src={activity.author.image}
-                    alt='Profile picture'
+                    alt='user_logo'
                     width={20}
                     height={20}
                     className='rounded-full object-cover'
